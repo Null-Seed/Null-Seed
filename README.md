@@ -27,7 +27,7 @@ An automated, object-oriented Python pipeline that fetches live global air quali
 - API Payload Packaging
 - Local File I/O Serialization
 
-→ [`github.com/USERNAME/EcoPulse`](https://github.com/USERNAME/EcoPulse)
+→ [`https://github.com/Null-Seed/EcoPulse`](https://github.com/Null-Seed/EcoPulse)
 
 ---
 
